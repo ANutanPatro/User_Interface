@@ -5,7 +5,7 @@
     padding: 16px;
     margin: 16px;
     background-color: #fff;
-    max-width: 300px;
+    max-width: 200px;
     transition: box-shadow 0.3s ease;
 }
 .class:hover {
@@ -96,3 +96,4 @@ a {
     color: #007BFF;
     text-decoration: none;
 }
+
